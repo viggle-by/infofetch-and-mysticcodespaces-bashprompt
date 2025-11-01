@@ -1,9 +1,0 @@
-{
-	"name": "arch",
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
-	"overrideCommand": false,
-	"privileged": true,
-	"remoteUser": "mysticgiggle"
-}
